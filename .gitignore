@@ -1,0 +1,41 @@
+# Скомпилированные программы и объектные файлы
+*.exe
+*.obj
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Файлы отладки Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Временные файлы ассемблера и линковщика
+*.lst
+*.map
+*.crf
+*.cod
+
+# Файлы, создаваемые встроенными инструментами VS
+*.ncb
+*.opt
+*.plg
+*.tmp
+*.log
+
+# Файлы конфигурации редакторов и IDE (кроме .vscode, если он вам нужен)
+.vscode/
+*.code-workspace
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Резервные копии
+*.bak
+*.old
+*.orig
